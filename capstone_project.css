@@ -1,0 +1,30 @@
+body{
+	color: white;
+	background-color: black;
+	text-align: center;
+	border: 50px solid #2EC4B6;
+	border-top: 0px;
+}
+
+.one{
+	width: 50%;
+	margin-top: 70px;
+	margin-left: 350px;
+	font-size: 20px;
+}
+
+input{
+	width: 20%;
+	height: 20px;
+}
+
+#b{
+	width: 9%;
+	height: 60px;
+	background-color: orange;
+	border: 25px round;
+	border-radius: 25px;
+	margin: 5px;
+	font-weight: bold;
+	font-size: px;
+}
